@@ -1,2 +1,1 @@
-# imagedetectionapi
-working
+Covid Prediction using Chest X-Ray.
